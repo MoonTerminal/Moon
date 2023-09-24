@@ -5,8 +5,7 @@ The ultimate desktop terminal emulator.
 If you find a issue open a issue in [!Issues](https://github.com/MoonTerminal/Moon/issues).
 
 
-# Support
-
+# Compatibility
 
 RECOMENDED OPERATING SYSTEM VERSIONS ALTHOUGH THE TERMINAL MAY WORK FOR MORE VERSIONS
 | Operating System  | Version of OS     | Support Status    |
@@ -27,7 +26,10 @@ RECOMENDED OPERATING SYSTEM VERSIONS ALTHOUGH THE TERMINAL MAY WORK FOR MORE VER
 #### MacOS/Linux
 1. Install the latest release from https://github.com/MoonTerminal/Moon/releases
 2. Once installed run the installer.sh 
-3. Once complete run the desktop icon or the Moon Terminal application 
+3. Once complete run the desktop icon or the Moon Terminal application
+
+# Support
+Either open a [!Issue](https://github.com/MoonTerminal/Moon/issues). or open a ticket in the discord server [!Link](https://www.dsc.gg/moonterminal).
 
 # Contributing
 
@@ -45,6 +47,3 @@ The project is using the GPLv3 License for know as it remains free and open sour
 
 # Stats
 ![Alt](https://repobeats.axiom.co/api/embed/f614861ce3c279c15380e7f8eb0df4adb1d01cdc.svg "Repobeats analytics image")
-   
-
-
