@@ -4,6 +4,17 @@ The ultimate desktop terminal emulator.
 # Issues
 If you find a issue open a issue in [!Issues](https://github.com/MoonTerminal/Moon/issues).
 
+
+# Support
+
+
+RECOMENDED OPERATING SYSTEM VERSIONS ALTHOUGH THE TERMINAL MAY WORK FOR MORE VERSIONS
+| Operating System  | Version of OS     | Support Status    |
+| ----------------- | ----------------- | ----------------- |
+| Windows           | 10/11+            | ✅               |
+| MacOS             | MacOS 12+(Big Sur)| ✅               |
+| Linux             | Untested          | ?                | 
+
 # Installation 
 
 ## Desktop 
@@ -27,6 +38,9 @@ If you find a issue open a issue in [!Issues](https://github.com/MoonTerminal/Mo
 3. CD Into local repository
    
 4. Make sure your on the default branch by executing the command `git branch -a`
+
+# License
+The project is using the GPLv3 License for know as it remains free and open source although there for paid versions it is not open-src.
 
 
 # Stats
