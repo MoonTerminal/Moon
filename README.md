@@ -6,14 +6,14 @@ The ultimate desktop terminal emulator.
 ## Desktop 
 
 #### Windows
-    1. Install the latest release from https://github.com/MoonTerminal/Moon/releases 
-    2. Once installed run the installer.bat 
-    3. Once complete run the desktop icon or the Moon Terminal application 
+1. Install the latest release from https://github.com/MoonTerminal/Moon/releases 
+2. Once installed run the installer.bat 
+3. Once complete run the desktop icon or the Moon Terminal application 
 
 #### MacOS/Linux
-    1. Install the latest release from https://github.com/MoonTerminal/Moon/releases 
-    2. Once installed run the installer.sh 
-    3. Once complete run the desktop icon or the Moon Terminal application 
+1. Install the latest release from https://github.com/MoonTerminal/Moon/releases
+2. Once installed run the installer.sh 
+3. Once complete run the desktop icon or the Moon Terminal application 
 
 #### Setup Development environment
 
