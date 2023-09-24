@@ -30,7 +30,7 @@ If you find a issue open a issue in [!Issues](https://github.com/MoonTerminal/Mo
 
 
 # Stats
-![Alt](https://repobeats.axiom.co/api/embed/ad3a9161793c4dfe50934cd4442d25dc3ca93128.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/f614861ce3c279c15380e7f8eb0df4adb1d01cdc.svg "Repobeats analytics image")
    
 
 
