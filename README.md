@@ -1,6 +1,9 @@
 # Moon
 The ultimate desktop terminal emulator.
 
+# Issues
+If you find a issue open a issue in [!Issues](https://github.com/MoonTerminal/Moon/issues).
+
 # Installation 
 
 ## Desktop 
@@ -15,7 +18,7 @@ The ultimate desktop terminal emulator.
 2. Once installed run the installer.sh 
 3. Once complete run the desktop icon or the Moon Terminal application 
 
-#### Setup Development environment
+# Contributing
 
 1. Open your favorite code editor or IDE and then open the terminal
 
@@ -24,3 +27,10 @@ The ultimate desktop terminal emulator.
 3. CD Into local repository
    
 4. Make sure your on the default branch by executing the command `git branch -a`
+
+
+# Stats
+![Alt](https://repobeats.axiom.co/api/embed/ad3a9161793c4dfe50934cd4442d25dc3ca93128.svg "Repobeats analytics image")
+   
+
+
